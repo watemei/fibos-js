@@ -1,0 +1,14 @@
+{
+  "name": "fibos-j",
+  "version": "1.0.0",
+  "description": "fibos js script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "fibos.js": "^0.1.0"
+  },
+  "author": "wattmei",
+  "license": "ISC"
+}
