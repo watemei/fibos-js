@@ -20,6 +20,8 @@ console.log("公钥: %s\n私钥: %s",pubkey,prikey)
 ```
 [在线创建](https://fibos.xyz/)
 
+### 代码创建
+
 > fibos getKyes.js //获取公私钥
 
 ## 注册fibos账号
