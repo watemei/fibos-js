@@ -4,9 +4,11 @@
 
 > 快速安装: curl -s https://fibos.io/download/installer.sh |sh
 
-##
+## 下载代码
 
 > git clone https://github.com/watemei/fibos-js.git
+
+> npm install
 
 ## 获取公私钥
 
