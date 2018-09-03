@@ -46,9 +46,9 @@ tips : account 数字 1-5 字母 a-z 必须12位
 
 ## EOS兑换FO
 
-fibos eos2fo.js
+> fibos eos2fo.js
 
 ## FO兑换EOS
 
-fibos fo2eos.js
+> fibos fo2eos.js
 
